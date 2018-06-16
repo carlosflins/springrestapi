@@ -18,6 +18,8 @@ public class UserController {
 		users.add(new User(1, "Carlos"));
 		users.add(new User(2, "Fabiano"));
 		users.add(new User(3, "Henrique"));
+		users.add(new User(4, "Victor"));
+		users.add(new User(5, "Hermes"));
 		
 		return users;
 	}
